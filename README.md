@@ -14,12 +14,21 @@
 
 ## 🔐 ~ API Key
 ```ts
-API_KEY = "Your-Google-Gemini-API-Key"
+To use this AI assistant, you need a Google Generative AI API key.
+
+### How to Get an API Key:
+1. Go to the [Google AI Studio](https://aistudio.google.com/) website.
+2. Sign in with your Google account.
+3. Navigate to the API Key section and generate a new API key.
+4. Copy and replace it in the script:
+   ```ts
+   API_KEY = "Your-Google-Gemini-API-Key"
+   ```
 ```
-  
+
 ## 🚀 ~ Setup
 ```ts
-1. Download the file (https://github.com/Froxxy1011/AI-Asistant.gitor Download Zip)
+1. Download the file (https://github.com/YourRepo/AI-Assistant.git or Download Zip)
 2. Install the required modules with:
    > pip install -r requirements.txt
 3. Run the application using:
