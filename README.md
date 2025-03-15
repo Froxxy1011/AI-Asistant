@@ -23,7 +23,6 @@ To use this AI assistant, you need a Google Generative AI API key.
 4. Copy and replace it in the script:
    ```ts
    API_KEY = "Your-Google-Gemini-API-Key"
-   ```
 ```
 
 ## 🚀 ~ Setup
