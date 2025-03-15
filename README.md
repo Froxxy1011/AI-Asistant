@@ -1,66 +1,41 @@
-AI Assistant
+<h1 align="center">
+  AI Assistant
+</h1>
 
-Overview
+<h1 align="center">🚀 AI Voice Assistant 🚀</h1>
 
-This is a simple AI-powered voice assistant that listens to user speech, generates a response using Google's Gemini AI model, and provides a text-to-speech (TTS) response. The application is built using Python and utilizes the following libraries:
+## 🔥 ~ Features
+```ts
+- Voice recognition and response generation
+- Text-to-speech playback
+- Chat history logging
+- Simple and intuitive GUI
+```
 
-pyttsx3 for text-to-speech functionality
+## 🔐 ~ API Key
+```ts
+API_KEY = "Your-Google-Gemini-API-Key"
+```
+  
+## 🚀 ~ Setup
+```ts
+1. Download the file (https://github.com/YourRepo/AI-Assistant.git or Download Zip)
+2. Install the required modules with:
+   > pip install -r requirements.txt
+3. Run the application using:
+   > python script.py
+4. Enjoy!
+```
 
-tkinter for the graphical user interface
+## 🤖 ~ Special Cases
+```ts
+5. If you encounter any issues with speech recognition, ensure your microphone is working properly.
+```
 
-speech_recognition for voice input processing
-
-google.generativeai for AI-generated responses
-
-Features
-
-Voice recognition and response generation
-
-Text-to-speech playback
-
-Chat history logging
-
-Simple and intuitive GUI
-
-Installation
-
-Prerequisites
-
-Ensure you have Python installed (>= 3.7). Then, install the required dependencies:
-
-pip install pyttsx3 tkinter speechrecognition google-generativeai
-
-Usage
-
-Run the script:
-
-python script.py
-
-Use the GUI:
-
-Click the Start button to begin voice input.
-
-Click Clear to erase the chat history.
-
-The AI will listen, respond, and speak the response aloud.
-
-File Structure
-
-AI-Assistant/
-│-- script.py          # Main application file
-│-- chat_log.txt       # Chat history log
-
-Configuration
-
-Replace the API_KEY in the script with your Google Gemini AI API key to enable AI-generated responses.
-
-License
-
-This project is licensed under the MIT License.
-
-Acknowledgments
-
-Google Gemini AI
-
-Python Community
+## ⚙️ ~ Requirements
+```ts
+> requirements.txt
+> Python (>=3.7)
+> Internet connection for AI responses
+```
 
