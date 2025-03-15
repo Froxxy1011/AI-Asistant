@@ -27,11 +27,11 @@ To use this AI assistant, you need a Google Generative AI API key.
 
 ## 🚀 ~ Setup
 ```ts
-1. Download the file (https://github.com/YourRepo/AI-Assistant.git or Download Zip)
+1. Download the file (https://github.com/Froxxy1011/AI-Assistant.git or Download Zip)
 2. Install the required modules with:
    > pip install -r requirements.txt
 3. Run the application using:
-   > python script.py
+   > python main.py
 4. Enjoy!
 ```
 
