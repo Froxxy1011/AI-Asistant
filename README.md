@@ -28,16 +28,20 @@ To use this AI assistant, you need a Google Generative AI API key.
 ## 🚀 ~ Setup
 ```ts
 1. Download the file
-2. Install the required modules with:
+
+2. Navigate in to the directory (cd AI-Asistant)
+
+3. Install the required modules with:
    > pip install -r requirements.txt
-3. Run the application using:
+4. Run the application using:
    > python main.py
-4. Enjoy!
+
+5. Enjoy!
 ```
 
 ## 🤖 ~ Special Cases
 ```ts
-5. If you encounter any issues with speech recognition, ensure your microphone is working properly.
+6. If you encounter any issues with speech recognition, ensure your microphone is working properly.
 ```
 
 ## ⚙️ ~ Requirements
